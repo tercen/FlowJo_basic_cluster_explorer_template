@@ -3,8 +3,8 @@
   "id": "e01b896d11a4d4031e3270648f652ba9",
   "isDeleted": false,
   "rev": "2-22221279af8588168bbbf68f02d6fbea",
-  "description": "Workflow template for FlowJo Tercen plugin uploaded files. FlowSOM  (cluster n=15)  view in a heatmap. Downsampling applied (1%)  ",
-  "name": "Cluster explorer basic FJ ",
+  "description": "Performs FlowSOM (cluster n=15) and views the results with heatmaps. Downsampling is applied (1%)",
+  "name": "FlowJo Cluster Explorer #1 - Basic",
   "createdBy": "maho.nagasawa",
   "acl": {
     "kind": "Acl",
