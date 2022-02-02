@@ -2,7 +2,7 @@
   "kind": "Workflow",
   "id": "e01b896d11a4d4031e3270648f652ba9",
   "isDeleted": false,
-  "rev": "2-22221279af8588168bbbf68f02d6fbea",
+  "rev": "3-58b7375813f1cd9643a5b6e9ef195431",
   "description": "Performs FlowSOM (cluster n=15) and views the results with heatmaps. Downsampling is applied (1%)",
   "name": "FlowJo Cluster Explorer #1 - Basic",
   "createdBy": "maho.nagasawa",
@@ -17,7 +17,7 @@
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2022-01-27T10:36:54.388730Z"
+    "value": "2022-02-02T12:41:13.402950Z"
   },
   "urls": [
     {
@@ -466,7 +466,7 @@
         "kind": "Rectangle",
         "extent": {
           "kind": "Point",
-          "x": 130.2078399658203,
+          "x": 130.20750427246094,
           "y": 55.0
         },
         "topLeft": {
@@ -1056,7 +1056,7 @@
         "kind": "Rectangle",
         "extent": {
           "kind": "Point",
-          "x": 109.69784545898438,
+          "x": 109.69761657714844,
           "y": 55.0
         },
         "topLeft": {
@@ -1406,7 +1406,7 @@
         "kind": "Rectangle",
         "extent": {
           "kind": "Point",
-          "x": 101.26988220214844,
+          "x": 101.26968383789062,
           "y": 55.0
         },
         "topLeft": {
@@ -1512,8 +1512,8 @@
                   "kind": "GraphicalFactor",
                   "factor": {
                     "kind": "Factor",
-                    "name": "FSC-A",
-                    "type": "double"
+                    "name": "",
+                    "type": "string"
                   },
                   "rectangle": {
                     "kind": "Rectangle",
@@ -1562,7 +1562,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 1565163
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
