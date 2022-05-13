@@ -1795,7 +1795,7 @@
           "operatorRef": {
             "kind": "OperatorRef",
             "name": "FlowJo Export Operator",
-            "version": "0.0.7",
+            "version": "0.0.9",
             "operatorId": "539a92d7f34c46cf16962850b8797fe0",
             "operatorKind": "ROperator",
             "propertyValues": [
